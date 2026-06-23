@@ -2,7 +2,6 @@
 
 ### Software Engineer | Web & Mobile Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyanft&label=Profile views&color=0e75b6&style=flat" alt="eyanft" /> </p>
 
 - 🔭 I'm currently working on **Building high-performance mobile applications and scalable web systems**
 
